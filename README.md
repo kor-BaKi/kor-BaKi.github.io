@@ -7,4 +7,4 @@ da
 sd
 as
 das
-d
+d \n
